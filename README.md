@@ -5,7 +5,7 @@
 
 ## 📊 Dashboard Preview
 
-![Customer Behavior Dashboard](assets/customer_behavior_dashboard.png)
+![Customer Behavior Dashboard](customer_behavior_dashboard.png)
 
 ---
 
